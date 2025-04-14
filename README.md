@@ -1,4 +1,4 @@
-Pizza-Hut-Sales-Analysis---SQL
+## Pizza-Hut-Sales-Analysis---SQL
 
 Overview:
 This SQL-based project analyzes Pizza Hut's sales data to uncover insights about customer behavior, product performance, and store efficiency. It focuses on optimizing decision-making by leveraging advanced SQL techniques.
